@@ -5,3 +5,4 @@ Git tracks changes of files.
 Create a new branch is quick and simple.
 add merge
 Bug fix
+add coding: utf-8
